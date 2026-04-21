@@ -219,10 +219,10 @@ export default function App() {
               <div className="cats-grid">
                 <button
                   className="cat-tag"
-                  style={{ borderColor: "#ffffff40", color: "#fff" }}
+                  style={{ borderColor: "#fff", color: "#fff" }}
                   onClick={sairModoCDJovem}
                 >
-                  ← Voltar
+                  Hinario
                 </button>
 
                 <button
