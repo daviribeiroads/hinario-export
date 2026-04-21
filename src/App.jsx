@@ -135,16 +135,17 @@ export default function App() {
       <header className="header">
         <div className="header-inner">
           <div className="logo-area">
-            <div className="logo-icon">
-              <img src="/public/music.png" alt="logo" width={32} height={32} />
-            </div>
+            <div className="logo-icon">H</div>
             <div>
               <h1>Hinário Adventista</h1>
               <p>Novo Hinário · 600 Hinos</p>
               <p>
-                Dev - Davi Ribeiro
-                <a href="https://wa.me/5599999999999" target="_blank">
-                  <i class="fa-brands fa-whatsapp"></i>
+                <a
+                  class="suporte"
+                  href="https://wa.me/5579991053399"
+                  target="_blank"
+                >
+                  <i class="fa-brands fa-whatsapp"></i> Suporte
                 </a>
               </p>
             </div>
@@ -167,6 +168,16 @@ export default function App() {
               rel="noopener noreferrer"
             >
               <h1>Provai e Vede</h1>
+            </a>
+          </div>
+
+          <div className="informativo-link">
+            <a
+              href="https://www.youtube.com/@adoracao_infantil/videos"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <h1>Adoração infantil</h1>
             </a>
           </div>
 

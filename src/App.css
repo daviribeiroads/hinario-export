@@ -100,6 +100,13 @@ body {
   font-size: 13px;
 }
 
+.suporte{
+  text-decoration: none;
+  color: var(--text2);
+  font-size: 11px;
+  
+}
+
 /* LAYOUT */
 .layout {
   display: flex;
