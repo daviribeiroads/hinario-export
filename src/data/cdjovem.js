@@ -1,6 +1,6 @@
 export const cdjovem = [
   { titulo: "O Meu Lugar No Mundo", ano: "2026", youtube: "LGR1qwiSjkU&list"},
-  { titulo: "ADORÁ-LO", ano: "Adoradores 2", youtube: "LGR1qwiSjkU&list"},
+  { titulo: "ADORÁ-LO", ano: "Adoradores 2", youtube: "iB29MsdK6dE&list"},
   { titulo: "GRANDE DEUS", ano: "Adoradores 2", youtube: "nS80ThKhfZQ&list"},
   { titulo: "VEREI JESUS", ano: "Adoradores 2", youtube: "f5AZgpdfZg0&list"},
   { titulo: "O ALTO CLAMOR", ano: "Adoradores 2", youtube: "WFiOYZbqcPk&list"},
