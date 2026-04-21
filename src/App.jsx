@@ -211,7 +211,7 @@ export default function App() {
 
           <div className="cats">
             <p className="cats-label">
-              {modoCDJovem ? "CD Jovem — Ano" : "Categoria"}
+              {modoCDJovem ? "CD Jovem / Fundo musical" : "Categoria"}
             </p>
 
             {modoCDJovem ? (

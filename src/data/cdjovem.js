@@ -51,5 +51,12 @@ export const cdjovem = [
   { titulo: "NOSSA MISSÃO", ano: "Adoradores 5", youtube: "qA_W0YCKhzs&list"},
   { titulo: "PRA TEU LOUVOR", ano: "Adoradores 5", youtube: "MtCBting5oM&list"},
   { titulo: "CAMINHO", ano: "Adoradores 5", youtube: "-vezIh5ek0g&list"},
+  { titulo: "Consolador", ano: "Fundo Musical", youtube: "0igy6bQN0hI&list"},
+  { titulo: "Yeshua", ano: "Fundo Musical", youtube: "Ol62DLl7LnM&list"},
+  { titulo: "Em teus braços", ano: "Fundo Musical", youtube: "Ol62DLl7LnM&list"},
+  { titulo: "A Ele a Glória", ano: "Fundo Musical", youtube: "_fCbhyPNMtA&list"},
+  { titulo: "Fiel a Mim", ano: "Fundo Musical", youtube: "jJX7AXV8FO4&list"},
+  { titulo: "Toca a Alma", ano: "Fundo Musical", youtube: "N5M2V8Ohk0w&list"},
+
  
 ];
